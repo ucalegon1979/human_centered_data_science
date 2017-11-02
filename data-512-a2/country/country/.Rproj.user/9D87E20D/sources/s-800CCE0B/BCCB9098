@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1508379985664.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "273776161",
+    "id" : "BCCB9098",
+    "lastKnownWriteTime" : 1508385099,
+    "last_content_update" : 1508385099288,
+    "path" : "~/Documents/Code/country/code/main.R",
+    "project_path" : "code/main.R",
+    "properties" : {
+        "cursorPosition" : "222,48",
+        "scrollLine" : "208",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
